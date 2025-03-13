@@ -212,6 +212,9 @@ git clone (ссылка на репозиторий)
 
 ## Чтобы добавить в GitHub код с устройства
 git add
+
 git status
+
 git commit -m(комментарий)
+
 git push (название репозитроия)
