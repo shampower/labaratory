@@ -13,4 +13,5 @@ False
 Первый код работает через цикл, а вторая функция is_palindrome_rec через обрезание сторон при помощи рекурсии.
 Второй код расчиттывает значение функциии. Без рекурсии работает через цикл, с рекурсией работает через вызов самого себя с изменением значений.
 # Скриншот
-![image](https://github.com/user-attachments/assets/edfff97c-be8e-4452-b4b6-48d4b0b3db27)
+![image](https://github.com/user-attachments/assets/fcf3dfca-50e6-40c9-9e22-63bd5e2f317e)
+
